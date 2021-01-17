@@ -33,6 +33,7 @@
    - `中午十二点`：健康打卡，下午校内打卡
    - `下午五点`：健康打卡，晚上校内打卡
 4. 微信推送打卡消息
+     
 
 ## 💢使用方法 —— 请使用 [腾讯云函数](https://github.com/ReaJason/17wanxiaoCheckin-Actions/blob/master/17wanxiaoCheckin-SCF.md)
 
